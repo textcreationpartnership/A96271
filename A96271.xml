@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Præcognita astrologica: or, Astrological judgments, and monthly observations, shewing, what material or grand changes or revolutions are like to happen in the world, but more especially Europe, in the so long and much talked of year, 1688. : To which is added an account of the so much admired and amazing prodigy / By Joh. Whalley student in physick and astrology.</title>
+            <author>Whalley, John, 1653-1724.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96271</idno>
+            <idno type="STC">Wing W1531</idno>
+            <idno type="STC">ESTC R186411</idno>
+            <idno type="EEBO-CITATION">43078206</idno>
+            <idno type="OCLC">ocm 43078206</idno>
+            <idno type="VID">151882</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96271)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151882)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2280:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Præcognita astrologica: or, Astrological judgments, and monthly observations, shewing, what material or grand changes or revolutions are like to happen in the world, but more especially Europe, in the so long and much talked of year, 1688. : To which is added an account of the so much admired and amazing prodigy / By Joh. Whalley student in physick and astrology.</title>
+                  <author>Whalley, John, 1653-1724.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F.E.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>in the Year 1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Aug. 13. 1688. This may be printed."</note>
+                  <note>Reproduction of original in: Lambeth Palace Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151882:1" rendition="simple:additions"/>
+            <p>
+               <hi>PRAECOGNITA ASTROLOGICA:</hi> OR, ASTROLOGICAL JUDGMENTS, And MONTHLY OBSERVATIONS, SHEWING, What Material or Grand Changes or Revolutions are like to happen in the World, But more eſpecially EUROPE, in the ſo long and much talked of Year, 1688, To which is added An Account of the ſo much Admired and Amazing PRODIGY By <hi>Joh. Whalley</hi> Student in <hi>Phyſick</hi> and <hi>Aſtrology.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>
+                        <hi>Aug.</hi> 13. 1688. This may be Printed.</p>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>F. E.</hi> in the Year 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="to_the_reader">
+            <pb facs="tcp:151882:2"/>
+            <pb n="3" facs="tcp:151882:2"/>
+            <head>To all the Legitimate Sons of the Divine <hi>
+                  <g ref="char:V">Ʋ</g>rania</hi> in the Kingdom of <hi>Ireland.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>NOtwithſtanding former Diſcouragements mentioned in the Dedication of my laſt years <hi>Obſervations,</hi> I did (at ſome of your Importunities) compoſe an <hi>Ephemeris</hi> or <hi>Almanack</hi> for this Year <hi>1688,</hi> like that of <hi>1686.</hi> And being under ſome miſunder<g ref="char:EOLhyphen"/>ſtanding with the Aſſigns of His Majeſties Printer about the Price of my laſt years Co<g ref="char:EOLhyphen"/>py, I met with one <hi>T. M.</hi>—a Bookſeller lately famous is <hi>London;</hi> who (as I ſince tho' not then underſtood) having ſtept to one ſide, and ſtragling in <hi>Dublin</hi> just as I had got my Copy licenſed, for a certain Sum agreed upon, and part received in hand, he by Bond under his Hand and Seal, oblig'd himſelf to deliver it at <hi>Cheſter</hi> printed on the laſt of <hi>October;</hi> when for Honeſty having retired himſelf from the reach of Juſtice, and it was too late to get them printed elſewhere, he inſtead thereof complemented me with a Lie, of their being ſeized in the Preſs; which upon examination I found as falſe as him<g ref="char:EOLhyphen"/>ſelf, and good grounds to believe he was procured by the aboveſaid Printers not to print it all, leſt it ſhould hinder the Sale of their Traſh, publiſhed in the Names of <hi>Plunket</hi> and others not in being; but have been forged from <hi>Ritchiſons</hi> or my Copy. So that I had not publiſhed any thing ſo late, but to remove the Fears about the late <hi>PRODIGY,</hi> and Year <hi>1688.</hi> and Trouble and Danger of tranſcribing theſe <hi>Obſervations</hi> frequently preſſed upon.</p>
+            <closer>
+               <dateline>
+                  <hi>Globe Cook-ſtreet Dublin,</hi> 
+                  <date>
+                     <hi>March 12. 1688.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>Urania's</hi> Votary. <hi>John Whalley.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="text">
+            <div type="part">
+               <head>Obſervations <hi>on the</hi> Prodigy <hi>ſeen at</hi> Dublin Jan. 27. 1688.</head>
+               <p>PRODIGIES are things ſeldom ſeen, and coming to paſs unexpectedly beyond imagination, beget miraculous Contemplation, Horrour, and A<g ref="char:EOLhyphen"/>mazement. And therefore that ſeen at <hi>Dublin,</hi> on <hi>Sunday Jan.</hi> 27. 1688. may well receive that Name; for that it amazed not only its Beholders, but alſo moſt that then heard of it, juſt as if they expected it a ſign of nothing but of utter Ruine and Deſtruction to be immediately ſhower'd down upon theſe Nations, but more eſpe<g ref="char:EOLhyphen"/>cially <hi>Ireland.</hi>
+               </p>
+               <p>I did not ſee this Prodigy my ſelf; but for the aforeſaid Reaſons, and the many En<g ref="char:EOLhyphen"/>quiries frequently made of me about it, I endeavoured to obtain the moſt abſolute Re<g ref="char:EOLhyphen"/>lation that could be procured; which was from the Watch of ſeveral parts of the City, who agree, That at midnight a Crack like that of a Cannon was heard, and immedi<g ref="char:EOLhyphen"/>ately a great ſiery Blaze ſeen flying from the South-weſt, over the City towards the North-eaſt, at one end like a half Ball, and thereout a great long Stream; which, by
+<pb n="4" facs="tcp:151882:3"/>this Deſcription, I conclude to be of that ſort of Prodigies, call'd Meteors; and of them, ſuch as Naturaliſts call Beams, and Judge to be generated of Exhalations hot and dry, like the Lightening or flaſh of Thunder, of a vicious clammy nature, reſembling Pitch, by being of thin and light parts, are by the Sun drawn and forced into the upper Re<g ref="char:EOLhyphen"/>gion, and there by exceſſive heat, and nearneſs to the Fire, kindled, and by the Wind and Clouds carried through the Air, as this was in form of a Beam, to the terror of all its Beholders.</p>
+               <p>The Ingenious Mr. <hi>Gadbury,</hi> in his <hi>Treatiſe of Prodigies, pag. 57.</hi> gives an account of a Meteor, <hi>Anno</hi> 1384. the moſt like this of any I can read of ſince: but neither he nor any other, of any extrordinary conſequences that attended that or any other, but what might rather be ſignified by the Stars; and therefore I conclude this ſo admired and amazing Prodigy in no wiſe ſo threatening or evil, as terrible and feared, eſpeci<g ref="char:EOLhyphen"/>ally to <hi>England</hi> and <hi>Ireland,</hi> and that the rather becauſe in it ſelf 'tis but an effect of other natural Cauſes, <hi>viz.</hi> the Stars, who only are the grand Signs or Natural Cauſes of Ter<g ref="char:EOLhyphen"/>reſtrial Mutations.</p>
+               <p>Tho I cannot ſhew any Prodigy like this of late, in reſpect to its noiſe; there have been ſeveral of the ſame nature ſeen in and about <hi>Dublin,</hi> as in <hi>June</hi> 1682, <hi>July</hi> 13. 1685, and the 6th of <hi>March</hi> following, all about 11 at night, the likeneſs of Armies were ſeen fighting in the Air; and laſt Summer a Prodigy or Meteor like this in form and all things but its noiſe, was ſeen ſeveral times to fly over this City of <hi>Dublin,</hi> and yet, God be praiſed, no ſuch bloody effects as are now feared have hitherto ſucceeded, or indeed are thereby threatened.</p>
+            </div>
+            <div type="part">
+               <head>General Obſervations on the Year 1688.</head>
+               <p>IN my Almanack for this Year I had Obſervations on the Winter Ingreſs and three paſt Months, <hi>January, February,</hi> and <hi>March,</hi> which being before the publiſhing this expir'd, I omit, together with the Scheam of the Vernal Ingreſs; the better to contract this into the narrow room of one Sheet, to make the Price eaſie, and for ſatisfaction therein, refer the curious to Mr. <hi>Mac-Combs</hi> Almanack, being the only one this Year publick in <hi>Ireland,</hi> that is worth buying; where the time of this Vernal Ingreſs is taken from the <hi>Rudolphine</hi> Tables, and agrees within twelve minutes of time with that taken from Mr. <hi>Gadburies Ephemeris March</hi> 9th. 1 <hi>hour</hi> 12 <hi>min. P. M.</hi> when in the Meridi<g ref="char:EOLhyphen"/>an of <hi>Dublin</hi> we have 10 <hi>deg.</hi> of <hi>Leo</hi> aſcending, and about twenty of <hi>Aries</hi> culminating, <hi>Mars</hi> Lord of the <hi>10th</hi> in the 10<hi>th</hi> week in <hi>Taurus,</hi> his detriment among the <hi>Pleiades,</hi> a turbulent Sign and Conſtellation, and in <hi>ſquare</hi> to <hi>Venus,</hi> his Diſpoſitor in the ſeventh, which, according to the ancient Rules of Aſtrology, ſignifys a Neceſſity in Princes, and perſons in Authority, to borrow Monies, or impoſe more than uſual Taxes on the Sub<g ref="char:EOLhyphen"/>jects, and will animate them to Choler, Cruelty, and Raſhneſs; one King, Prince, No<g ref="char:EOLhyphen"/>bleman, and chief Commander, will be ſubject to contend and quarrel with another upon ſlight occaſion, or for what they have little right to. Some eminent Prince or Princes in forreign Parts, will even in this year be ſubjected to the Contempt and Re<g ref="char:EOLhyphen"/>proach of his or their pretended Subjects or Neighbours, great Treachery, &amp;c. from all which I hope and pray God will for ever deliver His Moſt Gracious Majeſty of <hi>Great
+<pb n="5" facs="tcp:151882:3"/>Britain,</hi> &amp; his Dominions. If any ſhall dare to forget their Allegiance juſtly due to him the Lords Anointed, as I fear too many do; let them caſt an eye back to, and remember in the Tragedy of <hi>England</hi> and <hi>Scotland,</hi> 1685. how graciouſly he extended Mercy e<g ref="char:EOLhyphen"/>ven to thoſe that would have ſhewn little to him, if their Malice had prevailed. And, Dear Countrymen and Neighbours, conſider the Bleſſing of Peace and Plenty, and that the beſt of Natures cannot for ever brook of Abuſe, Wrong and Ingratitude; but when provoked beyond meaſure, juſtly become the moſt ſevere Puniſhers, and no long<g ref="char:EOLhyphen"/>er the Veſſels of Mercy, but Juſtice in ſo doing. And therefore let us, who call our ſelves Chriſtians, ſhew our ſelves ſo in obeying the Lord and his Anointed, and no lon<g ref="char:EOLhyphen"/>ger fool our ſelves with ſeditious Spirits and Fancies of what can only work the ruine of our ſelves and Poſterity; For Kings have long Arms, and when thereto extended, ſtrike ſeverely. What People in Chriſtendom enjoy the Bleſſings and Mercies we do under the beſt of Princes? Who ſtudys not ſo much his own as the good of his People, and Glory of God, how to give every man, by Law, Liberty to worſhip their heaven<g ref="char:EOLhyphen"/>ly Father in their own way; and that is ſo far from uſing the Severity of his Predeceſ<g ref="char:EOLhyphen"/>ſors, that he ſtudies to relieve all thoſe oppreſſed and perſecuted for Conſcience ſake, e<g ref="char:EOLhyphen"/>ven thoſe of Foreign Nations that fly to him for Succour, and are of different Perſuaſion from his own, even forty thouſand poor diſtreſſed French Proteſtants, that juſtly owe their Lives and Liberties to his Gracious Goodneſs and Favour. What can his own Subjects expect or crave more than he ſo bountifully vouchſafeth Strangers both to his Country and Religion? Is it reaſonable for a dutiful Child to expect leſs from his Fa<g ref="char:EOLhyphen"/>ther, than he freely beſtows to Strangers? If not, why ſhould men ſtudy to heap coals of Confuſion upon their own heads, when they may with more eaſe avoid it? Let all men vouchſafe their due Allegiance to their lawful Sovereign, the only means to pre<g ref="char:EOLhyphen"/>vent the Ruine which otherwiſe may attend them; and the Wo, Sorrow, and Afflicti<g ref="char:EOLhyphen"/>on which is threatened to ſeveral parts of the World, even in this year, by the laſt and this Ingreſs. I know ſome Authors are of opinion, that <hi>Venus</hi> in the 7th, as here, is for reconciling Kingdoms and Perſons at variance, and as now in <hi>Trine</hi> to and Recepti<g ref="char:EOLhyphen"/>on with <hi>Saturn,</hi> and <hi>Sextile</hi> of <hi>Mercury</hi> conduceth much thereunto to ſome, and to the Grandeur of the Nobility of <hi>Ireland</hi> in particular. But as ſhe is there in <hi>Square</hi> to <hi>Mars,</hi> the clear contrary to others, <hi>viz.</hi> the promotion of Wars, Bloodſhed, Differences and Diſcord, unuſual Law-Suits and Controverſies; and ſhews that ſome one ominent Fe<g ref="char:EOLhyphen"/>male will be ſubjected to the Frowns of Fate, if not the Malice of Death, or Comtempt of her Lord. And with this, that <hi>Square,</hi> and thoſe of <hi>Jupiter</hi> to <hi>Mercury, Saturn,</hi> and <hi>Luna,</hi> threatens abundance of Cold, Rain, Snow, Storms, Loſſes and Damage at Sea, both by that and Pyrates; more than uſual Engagements or Sea Fights, Diſputes about Religion and Church Affairs; and the broach or growing great of ſome new Sect or Sectaries; many Removals among thoſe of the Gown and Bench, and ſome of the more aged of them into the other World, but more particularly one of the moſt eminent Ru<g ref="char:EOLhyphen"/>ling Clergymen in Chriſtendom.</p>
+               <p>
+                  <hi>Luna</hi> juſt ſeparated from the body of <hi>Saturn,</hi> and void of Courſe, promiſeth but lit<g ref="char:EOLhyphen"/>tle Satisfaction to the Vulgar, but rather Diſappointments, Wo, Grief, Sorrow and Af<g ref="char:EOLhyphen"/>fliction, wherever Providence ſhall diſpoſe of the Effects, and that partly by their own Folly and Stiffneckedneſs; Yet the Lord of the ſecond, and Part of Fortune, free from the malignant Beams of the Infortunes, with the Poſition of <hi>Jupiter</hi> and <hi>Venus</hi> in the
+<pb n="6" facs="tcp:151882:4"/>ſecond, in the preventional Lunation, promiſeth much leſs cauſe of Complaint for want of Trade than laſt year. However, I adviſe the Husbandman to provide well againſt a bad Harveſt, and hard Winter.</p>
+               <p>But that which is moſt obſervable in this Revolution, is, the Partile <hi>Square</hi> of <hi>Saturn,</hi> and <hi>Jupiter</hi> from Cardinal Signs, which will in earneſt uſher in, and that ſpeedily too, the Effects of their Conjunction in the years 1682, &amp; 1683. and make the World ſen<g ref="char:EOLhyphen"/>ſible, that ſuch Congreſſes have influence upon the ſtate of Laws, Cuſtoms, Conſtitu<g ref="char:EOLhyphen"/>tions, and Prviledges of Nations, Perſons, Places, and things Eccleſiaſtical, and to change them too. And therefore it is not to be expected, Aſtrologers ſhould, under them, preach Peace and Tranquillity, when the contrary is ſo ſeverely threatned as now; and I dare aver, will be felt by moſt States and Degrees of Peoplein <hi>Europe.</hi> While ſome that have been long wallowing in Blood are preparing and contriving to eaſe themſelves of thoſe burdens; others are as faſt running into like extreams. Great Over<g ref="char:EOLhyphen"/>tures are made by the <hi>Turks;</hi> the <hi>Poles</hi> and <hi>Venetians</hi> ſeem inclinable to embrace them; the Chriſtian Emperour more ſlack, but not ſo backward as of late. <hi>France</hi> and <hi>Spain</hi> ſeem indifferently friendly, the <hi>Swede</hi> and <hi>Dane</hi> to jurr; the <hi>Poles</hi> and <hi>Muſcovites</hi> as of late, the <hi>Algerines</hi> pay for the Roaſt: <hi>Scotland</hi> in Wiſdom may be happy, and <hi>Ireland</hi> not inferior: the <hi>Dutch</hi> are imperious, and will meet Correction from thoſe, whom I be<g ref="char:EOLhyphen"/>ſeech God ever to enable to correct the Inſolencies of their Enemies, and bleſs with Health, Peace and Plenty. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Obſervations on the laſt 9 Months of the Year 1688.</head>
+               <p>
+                  <hi>APril.</hi> Beſides being ſo at the Vernal Ingreſs, <hi>Jupiter</hi> continues ſtill in <hi>Square</hi> to <hi>Sa<g ref="char:EOLhyphen"/>turn,</hi> and great part of the laſt and this Month in <hi>Square</hi> to <hi>Sol;</hi> which with the <hi>Oppoſition</hi> of <hi>Sol</hi> and <hi>Saturn,</hi> and other Configurations of this Month ſeem to threa<g ref="char:EOLhyphen"/>ten ten much Sickneſs about this time, Diſſatisfaction, Grief, Trouble and Vexation, if not Death, to ſome eminent Grandee or Grandees of <hi>Europe.</hi> And indeed to perſons of meaner quality, frowns of Superiors, loſs of Honour, Office and Imploy, the downfall of ſome one, or more, eminent Gown-man, Diſputes about Religion, or matters of Faith, and great miſchiefs at Sea both by Storms and Pyrates, Engagements or Sea Fights may ſucceed, but not this month; I fear the <hi>London</hi> Merchants will ſhare in the woful effects of the croſs Configurations.</p>
+               <p>
+                  <hi>May.</hi> Matters ſeem now rather tending to Counſel than Actions; however all are not idle, but rather contriving or preparing for the Actions of the following months; ſome endeavouring to create and others to deſtroy the Peace, not only of particular Per<g ref="char:EOLhyphen"/>ſons and Families, but alſo Nations and Kingdoms; the firſt ſeems to take moſt place now; and may all juſt endeavours ſo ſucceed. <hi>Great Britain</hi> is much concern'd in this months Proceedings, and <hi>Holland</hi> is not idle, but rather preparing for Action; I wiſh it may prove for good, but fear the contrary, however that Nation is about this time ma<g ref="char:EOLhyphen"/>king more than uſual preparation for fitting out Shipping, or ſome conſiderable Naval Action.</p>
+               <p>
+                  <hi>June.</hi> Now the Actions of the year begin to ſhew themſelves in their colours; thoſe concern'd haſting to oppoſe and engage each other, and will not be wanting to furniſh
+<pb n="7" facs="tcp:151882:4"/>us with the news of ſome conſiderable Fight, yea and perhaps at Sea too; if not, there will ariſe more than ordinary Diſputes about matters relating thereunto, if not about Religion alſo. But if not this month, we ſhall certainly hear plentifully of ſuch mat<g ref="char:EOLhyphen"/>ters before the Summer be over, wherein <hi>Holland</hi> will be more than a little concern'd.</p>
+               <p>
+                  <hi>July.</hi> Of all earthly bleſſings, certainly there's none ſo precious as health and peace; and yet there are an <hi>Iſrael</hi>-like pamper'd People, with Wantonneſs ſtuſt to that degree of Pride and Ambition, that no ſtate but Ruine can ſatisfy their Jew-like deſires. It was the Murdering of their heavenly King that made the Jews Slaves and Vagabonds; and, the crying Blood of his Anointed, that already hath brought loads of Miſery upon theſe nations: And therefore Dear Countrymen and Neighbours, let us for the future endeavour to Expiate that, and not ſtudy to heap Coals of Confuſion upon our Selves and Poſterity; but inſtead of that, what may make both them and us happy; for <hi>every Kingdom drvided againſt it ſelf is brought to Deſolation,</hi> Luke 11.17.</p>
+               <p>Now the Effects of the laſt great Tripple Conjunction, begin to ſhew themſelves to purpoſe, and moſt degrees feel it, eſpecially Superiors; ſome through Diſobedience and Folly, others againſt their Wills.</p>
+               <q>
+                  <l>Death ſpareth none, but equals all;</l>
+                  <l>The Mighty, Mean, and Poor muſt fall.</l>
+               </q>
+               <p>
+                  <hi>Auguſt.</hi> Many hopeful endeavours are uſed this month to heal the Evils of thoſe paſt, and for ſettling things in a more ſecure ſlate for the future, for the Peace and Satisfac<g ref="char:EOLhyphen"/>tion of Nations, Kings, Princes, and private Perſons at variance; yea, even between the two mighty Emperours of <hi>Germany</hi> and <hi>Turky,</hi> they may palliate, but cannot heal. Some grave Statesman, long clouded, begins to Luſtre forth Rays of Comfort to him<g ref="char:EOLhyphen"/>ſelf and others equally grieved; Males and Females, Gown-men, and indeed almoſt e<g ref="char:EOLhyphen"/>very State to be ſatisfied with Reaſon, finds this a month of Comfort in one degree or other, in <hi>England, Ireland,</hi> and ſeveral other parts of <hi>Europe,</hi> as well as <hi>America.</hi> Merchants meet ſatisfactory Returns from Foreign parts; thoſe of the Gown and Bench with Preferment, and ſeveral Females, but one of moſt illuſtrious Birth in particular with moſt Honourable Marriage.</p>
+               <p>
+                  <hi>September.</hi> Were it not for the malignant, treacherous, and twice reiterated Square of the two Superiors, beginning within Orbs in <hi>January,</hi> being Partile at the Vernal ingreſs, and continuing even to the years end, I ſhould have judged the many friend<g ref="char:EOLhyphen"/>ly Aſpects of the laſt and this month ſufficient to compoſe all the Feuds in the World, and create a Jubile; but alas! that were a happineſs too too great for ſo ſinfull a Peo<g ref="char:EOLhyphen"/>ple as this Age contains; for though it might ſatisfy ſome, and thoſe too lately afflicted, yet it can not all, for what is one mans Meat is another mans Poyſon, and what the Stomach cannot bear, it will either reject, or when forced upon it caſt out; there is a certain Sympathy and Antipathy in Nature, which Wills ſome to Love what others Abhor, and oftentimes there is Neceſſity to uſe force for Eaſe and Safety, and perhaps may now for Cure of ſome State Diſtempers.</p>
+               <p>
+                  <hi>October.</hi> Reaſon ſeems to confirm the ſeaſon paſt for Publick Action, and the <hi>Stars</hi> declare it in its Prince for Councel; many deep and weighty Conſultations and Debates are now on foor, and I hope much to a general good and ſatisfaction: but, whether for paſt or preſent offences, the common People are afflicted about this time with Impri<g ref="char:EOLhyphen"/>ſonment, and ſuch like Troubles. Falſe and lying reports are daily ſpread abroad to
+<pb n="8" facs="tcp:151882:5"/>hurry people into Fears and Diſtractions: and one Friend and Neighbour is ready <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> accuſe another, and that unjuſtly too, by which Offenders are brought to Juſtice. The ſeaſon is ſtormy, yet Merchants meet happy returns; Women in Travel and young Children find it but an indifferent ſeaſon.</p>
+               <p>
+                  <hi>November.</hi> Poor <hi>Jupiter</hi> continues ſtill weak and afflicted both by <hi>Saturn</hi> and <hi>Men</hi> in Conjunction with the <hi>Dragons Tail.</hi> What is it baſe men cannot do when Able, Strong, Joyn'd and reſolv'd for Miſchief? This Month is not inferiour to the former for Councel and Contrivances, but of different Natures, thoſe publick and tending to Good, and theſe private tending to evil. Ay! even to diſhonour Authority, and Diſ<g ref="char:EOLhyphen"/>turbance of Government and moſt ſacred Divine Matters, and to that end many baſe ſcrolls and Storys are broacht and pack't about, but a ſhort time will ſhew their E<g ref="char:EOLhyphen"/>vent in the Deſtruction of the Founders; the deſign is general, but particular to ſome great perſon, Statesman, <hi>&amp;c.</hi> who muſt fall by their Malice before their work can be accompliſhed. But <hi>Saturn</hi> and <hi>mars</hi> changing their Signs in Conjunction will ſud<g ref="char:EOLhyphen"/>denly change the balance of Affairs, bring Offenders to puniſhment, occaſion very bad Cold, Snowy, Stormy Weather, and many Changes in Affairs of Government Church and State.</p>
+               <p>
+                  <hi>December.</hi> The coldneſs of the Seaſon and the Friendſhip of the Stars ſeem to pro<g ref="char:EOLhyphen"/>miſe more Health than in ſeveral months paſt; Increaſe of Trade, and more general ſi<g ref="char:EOLhyphen"/>tisfaction eſpecially to <hi>England</hi> and <hi>Ireland.</hi> An eminent Female receives Affliction, or a garment of her firſt Element, and many others Removals from their Honours, Office, and Imploys, to make way for others conceiv'd more deſerving. many ſecret Am<g ref="char:EOLhyphen"/>baſſys are ſent privately from one place and Princes Court to another, about Matters of very great moment; it is ſome buſineſs which ſhould produce nothing but good, and yet little will acrue from hence but evil.</p>
+            </div>
+            <div type="part">
+               <head>Of the ECLIPSES, <hi>1688.</hi>
+               </head>
+               <p>THere will be four <hi>Eclipſes</hi> this year, the firſt of the <hi>Moon, April</hi> the 5th, at on the Afternoon.</p>
+               <p>The ſecond of the Sun <hi>April</hi> the <hi>20th.</hi> at one in the Morning.</p>
+               <p>The third of the Moon <hi>September the 29th.</hi> half an hour paſt 9 in the Morning.</p>
+               <p>The fourth of the <hi>Sun, October</hi> the <hi>14th.</hi> near 7 in the Morning, but all inviſible and not to be ſeen, or felt by us.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
